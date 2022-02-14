@@ -1,0 +1,431 @@
+{
+    "user" : [
+        
+        {
+            "id" : 1,
+            "name" : "Sharifa Begum",
+            "email" : "sharifa@gmail.com",
+            "phone" : "01191155250",
+            "location" : "Dhaka",
+            "gender" : "Female",
+            "password" : "123456",
+            "role" : 3
+        },
+        {
+            "id" : 2,
+            "name" : "Sumiya Akter",
+            "email" : "sumiya@gmail.com",
+            "phone" : "01811223002",
+            "location" : "Daudkandi",
+            "gender" : "Female",
+            "password" : "123456",
+            "role" : 4
+        },
+        {
+            "id" : 3,
+            "name" : "Sariya Akter",
+            "email" : "sariya@gmail.com",
+            "phone" : "01975304655",
+            "location" : "Mamudpur",
+            "gender" : "Female",
+            "password" : "123456",
+            "role" : 4
+        },
+        {
+            "id" : 4,
+            "name" : "Munira Akter",
+            "email" : "muniraweb@gmail.com",
+            "phone" : "01881959920",
+            "location" : "Keranigonj",
+            "gender" : "Female",
+            "password" : "123456",
+            "role" : 5
+        }
+        ,
+        {
+            "id" : 5,
+            "name" : "Ahmad",
+            "email" : "ahmad@gmail.com",
+            "phone" : "01811223011",
+            "location" : "Mizmizi",
+            "gender" : "Male",
+            "password" : "123456",
+            "role" : 1
+        },
+        {
+            "id" : 6,
+            "name" : "Fatema Tuj Jhora",
+            "email" : "fatema12@gmail.com",
+            "phone" : "01965854525",
+            "location" : "Uttara",
+            "gender" : "Female",
+            "password" : "123456",
+            "role" : 2
+        },
+        {
+            "id" : 7,
+            "name" : "Zubayer Hasan",
+            "email" : "zubu@gmail.com",
+            "phone" : "01711122233",
+            "location" : "Sudi Arabia",
+            "gender" : "Male",
+            "password" : "123456",
+            "role" : 3
+        },
+        {
+            "id" : 8,
+            "name" : "Hasan Bhuiyan",
+            "email" : "hasan98@gmail.com",
+            "phone" : "01722924044",
+            "location" : "Thoirkhola",
+            "gender" : "Male",
+            "password" : "123456",
+            "role" : 4
+        },
+        {
+            "id" : 9,
+            "name" : "Mohammad Shufiyan",
+            "email" : "mohanmmadshufiyan@gmail.com",
+            "phone" : "01965874125",
+            "location" : "Daudkandi",
+            "gender" : "Male",
+            "password" : "123456",
+            "role" : 5
+        },
+        {
+            "id" : 10,
+            "name" : "Ali Azam",
+            "email" : "ali@gmail.com",
+            "phone" : "01811223001",
+            "location" : "Nowgaw",
+            "gender" : "Male",
+            "password" : "123456",
+            "role" : 0
+        }
+
+       
+    ],
+
+    "roles" : [
+       
+        {
+            "id" : 0,
+            "role" : "admin"
+        },
+        {
+            "id" : 1,
+            "role" : "editor"
+        },
+        {
+            "id" : 2,
+            "role" : "user"
+        },
+        {
+            "id" : 3,
+            "role" : "subscriber"
+        },
+        {
+            "id" : 4,
+            "role" : "customer"
+        },
+        {
+            "id" : 5,
+            "role" : "client"
+        }
+
+
+    ],
+
+
+    "products" : [
+       
+        {
+            "id"       : 1,
+            "category" : 8,
+            "name"     : "Huawei MatePad 10.4 (wifi) - 4GB Ram/ 128GB Rom",
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "photo" : "https://www.startech.com.bd/image/cache/catalog/tablet-pc/huawei/matepad-10-4/matepad-10-4-500x500.jpg",
+            "price" : "30481",
+            "discount" : "5",
+            "featured" : "0",
+            "top_reviewed" : "1",
+            "brands" : 3
+        
+        },
+        {
+            "id"       : 2,
+            "category" : 2,
+            "name"     : "Ruchi Tomato Ketchup 1000g",
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "photo" : "https://static-01.daraz.com.bd/p/7e785b3c99ecc6da8e24427a045c67bf.jpg",
+            "price" : "159",
+            "discount" : "1",
+            "featured" : "0",
+            "top_reviewed" : "0",
+            "brands" : 2
+        
+        },
+        {
+            "id"       : 3,
+            "category" : 2,
+            "name"     : "Healthy Breakfast Oats - 1kg Jar",
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "photo" : "https://m.media-amazon.com/images/I/71MYZvIkRHL.jpg",
+            "price" : "445",
+            "discount" : "0.9",
+            "featured" : "1",
+            "top_reviewed" : "0",
+            "brands" : 2
+
+        
+        },
+        {
+            "id"       : 4,
+            "category" : 6,
+            "name"     : "Solid Navy Blue colour stylish Jacket For Men",
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "photo" : "https://static-01.daraz.com.bd/p/b65ac6721613a921376613c34ee95aca.jpg",
+            "price" : "1770",
+            "discount" : "70",
+            "featured" : "1",
+            "top_reviewed" : "1",
+            "brands" : 4
+        
+        },
+        {
+            "id"       : 5,
+            "category" : 6,
+            "name"     : "Army Green full Sleeve Casual Shirt For Man",
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "photo" : "https://static-01.daraz.com.bd/p/a9506ed2be56583d0bc547801cf4f4f5.jpg",
+            "price" : "1500",
+            "discount" : "",
+            "featured" : "1",
+            "top_reviewed" : "1",
+            "brands" : 4
+        
+        },
+        {
+            "id"       : 6,
+            "category" : 7,
+            "brands" : 6,
+            "name"     : "Purse Wallet",
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "photo" : "https://ae01.alicdn.com/kf/H813a27733bfa49f79c8118595c163b7a5/2020-European-and-American-ladies-shoulder-bag-stitching-solid-color-PU-leather-handbags-female-bags-classic.jpg_q50.jpg",
+            "price" : "3700",
+            "discount" : "",
+            "featured" : "1",
+            "top_reviewed" : "1"
+        
+        },
+        {
+            "id"       : 7,
+            "category" : 7,
+            "brands" : 6,
+            "name"     : "Stylish Hill Shoe",
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "photo" : "https://www.seekpng.com/png/detail/4-40295_women-shoes-image-wedding-transparent-background-ladies-shoes.png",
+            "price" : "2000",
+            "discount" : "5",
+            "featured" : "1",
+            "top_reviewed" : "1"
+        
+        },
+        {
+            "id"       : 8,
+            "category" : 1,
+            "brands"   : 8,
+            "name"     : "Naked3 12 Pieces Make Up Brush Set",
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "photo" : "https://static-01.daraz.com.bd/p/8e4c4b37c16e6e464c01a8262b4e784b.jpg_340x340q80.jpg_.webp",
+            "price" : "500",
+            "discount" : "10",
+            "featured" : "1",
+            "top_reviewed" : "1"
+        
+        },
+        {
+            "id"       : 9,
+            "category" : 1,
+            "brands"   : 8,
+            "name"     : "6 IN 1 MAKEUP COMBO SET WITH FULL MAKEUP",
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "photo" : "https://static-01.daraz.com.bd/p/675677e1b2de247ed21c2e8c2561f927.jpg",
+            "price" : "800",
+            "discount" : "8",
+            "featured" : "1",
+            "top_reviewed" : "1"
+        
+        },
+        {
+            "id"       : 9,
+            "category" : 4,
+            "brands"   : 7,
+            "name"     : "winter collection Cap Towel for Baby,",
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "photo" : "https://static-01.daraz.com.bd/p/b4728637daa8aa2b7fc44cf1d1ee0b41.jpg",
+            "price" : "580",
+            "discount" : "10",
+            "featured" : "1",
+            "top_reviewed" : "1"
+        
+        },
+        {
+            "id"       : 10,
+            "category" : 4,
+            "brands"   : 7,
+            "name"     : "Remote Control Mini RC Infrared Induction Helicopter",
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "photo" : "https://m.media-amazon.com/images/I/71SRXsLCMxL._AC_SX425_.jpg",
+            "price" : "304",
+            "discount" : "2",
+            "featured" : "1",
+            "top_reviewed" : "1"
+        
+        },
+        {
+            "id"       : 11,
+            "category" : 3,
+            "brands"   : 9,
+            "name"     : "Jelly candles 6 pieces",
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "photo" : "https://static-01.daraz.com.bd/p/mdc/264258438b36af415159e376fe7e367a.jpg",
+            "price" : "72",
+            "discount" : "1",
+            "featured" : "1",
+            "top_reviewed" : "1"
+        
+        },
+        {
+            "id"       : 12,
+            "category" : 3,
+            "brands"   : 9,
+            "name"     : "Comforter 100% cotton King Size",
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "photo" : "https://image.made-in-china.com/202f0j00IfnYDHFJywqO/Cheap-Bedding-Set-100-Cotton-King-Size-Satin-White-Bed-Linen-Duvet-Cover-Set-JRL033-.jpg",
+            "price" : "3200",
+            "discount" : "20",
+            "featured" : "1",
+            "top_reviewed" : "1"
+        
+        },
+        {
+            "id"       : 12,
+            "category" : 8,
+            "brands"   : 1,
+            "name"     : "Realme GT Master Edition - 8GB RAM128GB ROM",
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "photo" : "https://static-01.daraz.com.bd/p/mdc/39d7f69edb8f0c639adb666a6723046a.jpg",
+            "price" : "32980",
+            "discount" : "20",
+            "featured" : "1",
+            "top_reviewed" : "1"
+        
+        }
+      
+
+    ],
+
+    "categories" : [
+
+      
+        {
+            "id"   : 1,
+            "name" : "Beauty",
+            "slug" : "beauty"
+
+        },
+
+        {
+            "id"   : 2,
+            "name" : "Food",
+            "slug" : "food"
+
+        },
+
+        {
+            "id"   : 3,
+            "name" : "Home & lifestyle",
+            "slug" : "home_lifestyle"
+
+        },
+
+        {
+            "id"   : 4,
+            "name" : "Babies",
+            "slug" : "babies"
+
+        },
+
+        {
+            "id"   : 5,
+            "name" : "Watch",
+            "slug" : "watch"
+
+        },
+
+        {
+            "id"   : 6,
+            "name" : "Man's Fashion",
+            "slug" : "man's_fashion"
+
+        },
+        {
+            "id"   : 7,
+            "name" : "Woman's Fashion",
+            "slug" : "woman's_fashion"
+
+        },
+        {
+            "id" : 8,
+            "name" : "Electronics",
+            "slug" : "electronics"
+
+        }
+
+
+        
+
+    ],
+
+    "brands" : [
+        {
+            "id" : 1,
+            "name" : "Apple"
+        },
+        {
+            "id" : 2,
+            "name" : "Ruchi"
+        },
+        {
+            "id" : 3,
+            "name" : "Huawei"
+        },
+        {
+            "id" : 4,
+            "name" : "Yellow"
+        },
+        {
+            "id" : 5,
+            "name" : "Rollex"
+        },
+        {
+            "id" : 6,
+            "name" : "Arong"
+        },
+        {
+            "id" : 7,
+            "name" : "JonSon"
+        }, 
+        {
+            "id" : 8,
+            "name" : "Huda Beauty"
+        }, 
+        {
+            "id" : 9,
+            "name" : "Brothers"
+        }
+    ]
+
+
+}
